@@ -1,0 +1,100 @@
+h1 {
+    color: rgba(0, 0, 0,0.75);
+}
+
+#accent {
+    padding: 10px;
+    background-color: rgb(250, 87, 37);
+}
+
+hr {
+    margin-top: 0;
+    margin-bottom: 15px;
+    background-color: rgb(250, 87, 37, 0.35);
+}
+
+h1,
+h2 {
+    font-family: "Raleway", sans-serif;
+}
+
+h3 {
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+}
+
+p {
+    opacity: 0.95;
+    font-family: "Montserrat", sans-serif;
+}
+
+a {
+    color: rgba(0, 0, 0,0.45)
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgba(250, 87, 37);
+    opacity: 0.5;
+}
+
+.sub {
+    float: left;
+}
+
+#sub {
+    padding-left: 120px;
+}
+
+.space {
+    color: rgba(0, 0, 0,0.45)
+}
+
+#headshot {
+    width: 500px;
+    height: 500px;
+}
+
+.bottom-line {
+    margin-top: 15px;
+}
+
+.thumbnail {
+    width: 250px;
+    height: 250px;
+    margin: 0 20px 5px;
+}
+
+.figure {
+    float: left;
+}
+
+.caption {
+    margin-left: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.description {
+    background-color: rgba(250, 87, 37);
+    color: white;
+}
+
+.border {
+    border-style: solid;
+    border-color: rgba(250, 87, 37);
+}
+
+.submit {
+    margin-top: 15px;
+    background-color: rgba(250, 87, 37);
+    color: white;
+    width: 100px; 
+}
+
+.submit:hover {
+    background-color: rgb(221, 52, 0);
+}
+
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+}
